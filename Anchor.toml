@@ -1,0 +1,18 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.localnet]
+milestone_voting = "3cHchq7GaE9v1nXrDoGGRgqP25vbvAbJjKp6mh5xN2RU"
+
+[programs.devnet]
+milestone_voting = "3cHchq7GaE9v1nXrDoGGRgqP25vbvAbJjKp6mh5xN2RU"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "keys/update-local.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

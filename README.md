@@ -1,0 +1,6 @@
+devnet UA wallet
+EnQS1hpPkAcrVZ1U66UkMowYBDNXsJn7XhTMK6BXrjzy
+
+devnet spl token
+82JA21gyQUfSoVM5UPiJQJU1cDx95ypZZ9x2Six6JPUi
+
